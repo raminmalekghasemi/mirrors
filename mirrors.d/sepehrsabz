@@ -1,0 +1,10 @@
+  http: http://alma.sepehrsabz.ir
+geolocation:
+  continent: Asia
+  country: Tehran
+  city: Tehran
+update_frequency: 3h
+sponsor: Sepehr Sabz
+sponsor_url: http://www.sepehrsabz.ir
+email: malekghasemi@sephersabz.ir
+asn: 204203
